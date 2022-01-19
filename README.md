@@ -1,3 +1,1 @@
-# sample1
-# sample1
-# sample1
+<h1> this is static website</h1>
